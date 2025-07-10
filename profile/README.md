@@ -6,35 +6,19 @@
 
 ---
 
-Bem-vindo à organização **ControlID Economic**.
+# Bem-vindo à organização **ControlID Economic**.
 
 ---
 
-## 🚀 Sobre nós
+## Sobre nós
 
 Desenvolvemos soluções para otimizar o controle de ponto eletrônico, automações de processos de RH e integração de dados com dispositivos ControlID.
 
 Atualmente, nosso foco principal é substituir o sistema **Secullum** pelo nosso próprio sistema, totalmente personalizado, flexível e aberto para futuras integrações e automações que o Secullum não oferece.
 
----
-
-## 🎯 Objetivo
+## Objetivo
 
 Criar APIs, serviços e ferramentas que tragam maior controle, segurança e eficiência no processamento dos dados de ponto, folha e gestão de pessoas.
-
----
-
-## 🤝 Contribuições
-
-No momento, o projeto está em fase inicial e restrito ao time interno. Em breve teremos guidelines para contribuição, padronização de código e abertura para colaboradores.
-
----
-
-### 📂 Repositórios
-
-Confira nossos repositórios principais no topo da organização para mais informações.
-
----
 
 ## 💻 Tecnologias que utilizamos
 
